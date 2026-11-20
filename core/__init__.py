@@ -1,0 +1,1 @@
+"""MEDIC ASTRO core package."""

@@ -1,0 +1,13 @@
+python-dotenv
+openai
+gradio
+langgraph
+langgraph-checkpoint-sqlite
+langchain
+langchain-core
+langchain-openai
+langchain-community
+langchain-pinecone
+langchain-tavily
+pinecone
+turso_serverless

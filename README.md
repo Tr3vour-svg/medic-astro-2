@@ -1,3 +1,15 @@
+---
+title: MEDIC ASTRO
+emoji: 🩺
+colorFrom: blue
+colorTo: green
+sdk: gradio
+sdk_version: 6.0.0
+python_version: "3.12"
+app_file: app.py
+pinned: false
+---
+
 # Medic-Astro
 
 A multi-agent hospital policy assistant built with LangGraph, Pinecone, and Gradio.

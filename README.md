@@ -1,14 +1,4 @@
----
-title: MEDIC ASTRO
-emoji: 🩺
-colorFrom: blue
-colorTo: green
-sdk: gradio
-sdk_version: 6.0.0
-python_version: "3.12"
-app_file: app.py
-pinned: false
----
+(https://tr3vour-medic-astro-2.hf.space/)
 
 # Medic-Astro
 
